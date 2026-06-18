@@ -76,14 +76,19 @@
 ## 📊 GitHub Streak
 
 ###
+## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=dhanshrii2006&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanshrii2006&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhanshrii2006&theme=radical" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanshrii2006&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 ###
 
 <h2 align="left">Socials</h2>
