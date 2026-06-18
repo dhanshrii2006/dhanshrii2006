@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanshrii2006&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=dhanshrii2006&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
