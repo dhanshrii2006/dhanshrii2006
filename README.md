@@ -72,8 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-## 📊 GitHub Streak
 
 ###
 ## 📊 GitHub Stats
@@ -83,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanshrii2006&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dhanshrii@2006&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
