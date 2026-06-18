@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanshrii2006&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dhanshrii2006&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
