@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-
+<!-- 
 ###
 ## 📊 GitHub Stats
 
@@ -88,7 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanshrii2006&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 ###
-
+-->
 <h2 align="left">Socials</h2>
 
 ###
