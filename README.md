@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔍 Driven by Curiosity 🤖 Building Intelligence through Data and AI<br><br>🔭 I'm currently working on<br>Real-world data systems for analytics & ML<br><br>👯 I'm looking to collaborate on<br>Open source data & ML projects<br><br>🌱 I'm currently learning<br>- ML fundamentals & putting models in production<br>- Data Cleaning & Feature Engineering<br>-Model Evaluation & Experiment Tracking<br>- Data queries that actually perform<br><br>💬 Ask me about<br>Python & SQL fundamentals | Cloud architecture | Data structures & algorithms<br><br>⚡ Fun fact<br>Every dataset teaches me a new way data can be broken.</p>
+<p align="left">🔍 Driven by Curiosity 🤖 Data and AI<br><br>🔭 I'm currently working on<br>Real-world data systems for analytics & ML<br><br>👯 I'm looking to collaborate on<br>Open source data & ML projects<br><br>🌱 I'm currently learning<br>- ML fundamentals & putting models in production<br>- Data Cleaning & Feature Engineering<br>-Model Evaluation & Experiment Tracking<br>- Data queries that actually perform<br><br>💬 Ask me about<br>Python & SQL fundamentals | Cloud architecture | Data structures & algorithms<br><br>⚡ Fun fact<br>Every dataset teaches me a new way data can be broken.</p>
 
 ###
 
